@@ -1,0 +1,15 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+PyMySQL==1.1.1
+Werkzeug==3.0.3
+PyJWT==2.8.0
+cryptography==42.0.8
+bcrypt
+google-auth==2.29.0
+flask
+flask-cors
+flask-socketio
+pymysql
+cloudinary
+requests
+eventlet
