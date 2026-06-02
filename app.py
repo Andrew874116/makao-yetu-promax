@@ -16,7 +16,7 @@ app.config['SECRET_KEY'] = 'makao_yetu_secret_2026'
 DB_CONFIG = {
     'host': os.environ.get('DB_HOST', 'mysql-andrewkifaru.alwaysdata.net'),
     'user': os.environ.get('DB_USER', 'andrewkifaru'),
-    'password': os.environ.get('DB_PASSWORD', ''),
+    'password': os.environ.get('DB_PASSWORD', 'BMAndrew5170'),
     'database': os.environ.get('DB_NAME', 'andrewkifaru_makaoyetu'),
     'port': int(os.environ.get('DB_PORT', 3306)),
     'cursorclass': pymysql.cursors.DictCursor,
